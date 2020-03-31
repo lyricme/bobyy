@@ -13,7 +13,7 @@
   "license": "UNLICENSE",
   "private": false,
   "dependencies": {
-    "next": "^8.0.3",
+    "next": "^9.3.2",
     "next-ga": "^2.3.4",
     "next-page-transitions": "^1.0.0-alpha.6",
     "next-seo": "^1.11.1",
